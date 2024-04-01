@@ -2,7 +2,7 @@
 title: Welcome to Philo's Garden!
 ---
 
-Welcome! It looks like you've stumbled into my personal garden. Browse around for the various infosec notes, writeups, and more of a hacker fox 🦊. 
+Welcome! It looks like you've stumbled into my personal garden. Browse around for the various infosec notes, writeups, and more of a hacker fox 🦊. Check out the `Explorer` menu to get started!
 
 Dark mode recommended.
 
