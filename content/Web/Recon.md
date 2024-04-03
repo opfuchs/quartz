@@ -1,4 +1,4 @@
-See also Recon and OSINT - [[content/Recon and OSINT/Web|Web]]
+See also Recon and OSINT - [[Web]]
 # Directories
 
 Get rootdirs from a list of links one-liner:
