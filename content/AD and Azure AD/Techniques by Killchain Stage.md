@@ -132,7 +132,7 @@ g_amsiContext corruption
 ## Device Guard Bypass
 ## EDR Evasion
 
-![[silence_EDR_crowdstrike.jpg]]
+![[content/assets/silence_EDR_crowdstrike.jpg]]
 
 Hand - *EDR Evasion*
 

