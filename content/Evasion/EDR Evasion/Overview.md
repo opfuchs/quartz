@@ -1,0 +1,1 @@
+This structure is hardly final, even before actually putting my edited content. Several of the entries overlap and I'm still deciding how to organize this.
