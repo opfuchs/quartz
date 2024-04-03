@@ -151,7 +151,7 @@ smbpasswd -r <target> -U '<user>'
 python3 smbpasswd.py <user>:<password>@<target> -newpass <new_password>
 ```
 
-NOTE: To get this to work without needing a NULL SMB session, unlike the interactive version, if you vale valid creds, modify the code to have your creds at the following lines:
+NOTE: To get this to work without needing a NULL SMB session, unlike the interactive version, if you have valid creds, modify the code to have your creds at the following lines:
 
 ```python
 if anonymous:
