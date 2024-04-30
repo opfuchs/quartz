@@ -142,7 +142,7 @@ Ideas of sections:
 * Direct Syscalls and Indirect Syscalls
 * sRDI
 * Process argument spoofing
-* Unhooking Windows APIs (maybe put unhooked NTAPI abuse here)
+* Unhooking Windows APIs 
 * EDR sensor detection
 * .NET Assembly obfuscation (e.g. https://www.r-tec.net/r-tec-blog-net-assembly-obfuscation-for-memory-scanner-evasion.html)
 * etc.
