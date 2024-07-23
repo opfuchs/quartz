@@ -16,4 +16,4 @@ Finally, in part 4, we will bring the previous parts together to tentatively exp
 
 
 [^1]: https://blogs.microsoft.com/blog/2024/07/20/helping-our-customers-through-the-crowdstrike-outage/
-[2^]:The best summary so far is [Michael Cahyadi's](https://research.meekolab.com/quick-analysis-about-the-crowdstrike-situation). 
+[^2]: The best summary so far is [Michael Cahyadi's](https://research.meekolab.com/quick-analysis-about-the-crowdstrike-situation). 
