@@ -34,7 +34,7 @@ With the above considerations in mind, let's now look at how a contemporary EDR 
 3. Detection logic
 4. Agent
 
-I largely adopt this schema from Matt Hand's excellent book on EDR evasion, with some minor modifications. [^1] Note that there *are* agent-less approaches to EDR, which we will briefly discuss shortly[^2] For now however, let's consider each component in turn.
+I largely adopt this schema from Matt Hand's excellent book on EDR evasion, with some minor modifications. [^1] Note that there *are* agent-less approaches to EDR, which we will briefly discuss shortly.[^2] For now however, let's consider each component in turn.
 
 *Telemetry* is the raw data, and *telemetry sources* are the sources of said raw data. Every action generates at least *some* potential telemetry, even if that's in principle a single bit flip. In practice, this is usually going to include (but not be limited to) things such as:
 
