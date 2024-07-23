@@ -14,7 +14,7 @@ While of course it is good that we do these checks (and we still do), a serious 
 
 It might therefore make more sense to look for underlying malicious behaviors. For example, even if we can evade the hash-matching by just changing a byte in the binary, our underlying malicious code likely does something such as creating certain files or loading certain libraries. 
 
-It would be nice if we could therefore look for *dynamic* behavioral patterns rather than *static* artifacts, and this is the first way the antimalware we call EDR differs from traditional AV. 
+It would thus be nice if we could look for *dynamic* behavioral patterns rather than *static* artifacts, and this is the first way the antimalware we call EDR differs from traditional AV. 
 
 The second major difference is then what we do with that information. If we're relying on static signatures, it's largely unproblematic to rely on automatic blocking behavior. we see bad hash, we block. However, dynamic behavioral heuristics are inherently a lot more uncertain - the use of a given syscall for example might *often* be malicious, but not necessarily. Therefore, the emphasis is less on automatic blocking via on-host mechanisms and more on using the information to enable a variety of further actions. This might still be automatic blocking, but it also might be (and often is) something like alerting a human analyst working at a Security Operations Center (SOC) to look into things further.
 
