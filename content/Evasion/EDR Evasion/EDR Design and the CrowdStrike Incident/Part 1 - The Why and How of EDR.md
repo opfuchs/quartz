@@ -30,9 +30,9 @@ So how do we get all this information (for step 1) and turn it into something ac
 With the above considerations in mind, let's now look at how a contemporary EDR is typically structured. While there are a variety of specific EDR architectures, most approximately follow the following four-part schema in their essentials:
 
 1. Telemetry
-2. Agent
-3. Sensors
-4. Detection logic
+2. Sensors
+3. Detection logic
+4. Agent
 
 I largely adopt this schema from Matt Hand's excellent book on EDR evasion, with some minor modifications. [^1] Note that there *are* agent-less approaches to EDR, which we will briefly discuss shortly[^2] For now however, let's consider each component in turn.
 
