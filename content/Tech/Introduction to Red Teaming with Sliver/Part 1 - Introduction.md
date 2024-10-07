@@ -8,7 +8,7 @@ tags:
  
 # Introduction to the introduction
 
-Welcome to the series! Here, we'll discuss some basic setup and environment considerations both so you have an idea of where to start and so that you have some idea of what we're attacking. As mentioned in the [[content/Introduction to Red Teaming with Sliver/README|README]] I don't aim to be comprehensive or step-by-step here, but I don't want you to be disoriented either.
+Welcome to the series! Here, we'll discuss some basic setup and environment considerations both so you have an idea of where to start and so that you have some idea of what we're attacking. As mentioned in the [[content/Tech/Introduction to Red Teaming with Sliver/README|README]] I don't aim to be comprehensive or step-by-step here, but I don't want you to be disoriented either.
 
 # Preliminary considerations
 
