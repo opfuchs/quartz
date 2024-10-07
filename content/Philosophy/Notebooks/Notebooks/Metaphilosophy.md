@@ -13,6 +13,7 @@
 
 ## To-read
 
+* Bahoh, James ed. Forthcoming. *21st-Century Philosophy of Events: Beyond the Analytic/Continental Divide*. Edinburgh University Press.
 * Finkelde, Dominik and Livingston, Paul M. eds. 2020. *Idealism, Relativism, and Realism: New Essays on Objectivity Beyond the Analytic-Continental Divide*. De Gruyter.
 * Livingston, Paul M. 2024. ["Thinking and Being are not the Same"](https://spaces-cdn.owlstown.com/blobs/25dxapeeeu41cklkj7m4t8vgdlrd), in Hrachovec, Herbert and Mácha, Jakub eds. *Proceedings of the 43rd Annual Wittgenstein Symposim*. 
 

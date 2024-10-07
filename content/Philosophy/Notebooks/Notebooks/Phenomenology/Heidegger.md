@@ -45,7 +45,7 @@ Translations are notoriously tricky for Heidegger. More recent translations from
 
 Hubert Dreyfus was hugely influential as a point of transmission for Heidegger to the Anglophone world (specifically, to the US). However, while his reading and those inspired by him are very interesting for bringing Heidegger-inspired themes into more mainstream Anglophone philosophy (e.g., philosophy of mind) they are very partial readings of Heidegger. Take them for what they are - their own thing - and they can be very interesting.
  
-* Dreyfus, Hubert. 1994. *Being-in-the-World: A Commentary on Division I of Being and Time*
+* Dreyfus, Hubert. 1994. *Being-in-the-World: A Commentary on Division I of Being and Time*. MIT Press.
 
 
 # Actively not recommended - Secondary
@@ -53,3 +53,5 @@ Hubert Dreyfus was hugely influential as a point of transmission for Heidegger t
 # To-read - Secondary
 
 * Bernasconi, Robert. 1993. *Heidegger in Question*. Humanities Press.
+* Golob, Sacha. 2014. *Heidegger on Concepts, Freedom and Normativity*. Cambridge University Press.
+* McManus, Denis. 2013. *Heidegger and the Measure of Truth: Themes from his Early Philosophy*. Oxford University Press.
