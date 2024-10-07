@@ -4,7 +4,7 @@
 ## Recommended
 
 * Gardner, Sebastian and Grist, Matthew eds. 2015. *The Transcendental Turn*. Oxford University Press.
-* Pippin, Robert B. 2024. *The Culimation: Heidegger, German Idealism, and the Fate of Philosophy*. Harvard University Press.
+* Pippin, Robert B. 2024. *The Culmination: Heidegger, German Idealism, and the Fate of Philosophy*. Harvard University Press.
 * Somers-Hall, Henry. 2022. *Judgement and Sense in Modern French Philosophy: A New Reading of Six Thinkers*. Cambridge University Press.
 
 ## Recommended with qualifications
@@ -13,6 +13,8 @@
 
 ## To-read
 
+* Finkelde, Dominik and Livingston, Paul M. eds. 2020. *Idealism, Relativism, and Realism: New Essays on Objectivity Beyond the Analytic-Continental Divide*. De Gruyter.
+* Livingston, Paul M. 2024. ["Thinking and Being are not the Same"](https://spaces-cdn.owlstown.com/blobs/25dxapeeeu41cklkj7m4t8vgdlrd), in Hrachovec, Herbert and Mácha, Jakub eds. *Proceedings of the 43rd Annual Wittgenstein Symposim*. 
 
 # Analytic and Continental
 
